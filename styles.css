@@ -1,0 +1,13 @@
+body {
+	background: lightblue;
+}
+
+.redletters {
+	color: red;
+	border: 5px yellow dashed;
+	padding: 10px;
+}
+
+.bigletters {
+	 font-size: large;
+}
